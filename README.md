@@ -1,137 +1,159 @@
-
-<div align="center">
-  <a href="https://cloud.illacloud.com/">
-    <img alt="ILLA Design Logo" width="120px" height="120px" src="https://github.com/illacloud/.github/blob/main/assets/images/illa-logo.svg"/>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
+  <a href="https://cloud.illacloud.com?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" rel="nofollow">
+    <img alt="伊拉设计标志" width="120px" height="120px" src="https://github.com/illacloud/.github/raw/main/assets/images/illa-logo.svg" style="max-width: 100%;">
   </a>
 </div>
-
-<h1 align="center"><a href="https://cloud.illacloud.com/">ILLA Builder</a> </h1>
-
-<p align="center">ILLA is a robust open source low-code platform for developers to build internal tools. By using ILLA's library of Components and Actions, developers can save massive amounts of time on building tools. </p>
-
-<div align="center">
-English | <a href="https://github.com/illacloud/illa-builder/blob/main/README-CN.md">简体中文</a> | <a href="https://github.com/illacloud/illa-builder/blob/main/README-KR.md">한국어</a> | <a href="https://github.com/illacloud/illa-builder/blob/main/README-JP.md">日本語</a>
+<h1 align="center" tabindex="-1" dir="auto"><a id="user-content-illa-builder-" class="anchor" aria-hidden="true" tabindex="-1" href="#illa-builder-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://cloud.illacloud.com?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">伊拉建造者</font></font></a> </h1>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ILLA 是一个强大的开源低代码平台，供开发人员构建内部工具。</font><font style="vertical-align: inherit;">通过使用 ILLA 的组件和操作库，开发人员可以节省构建工具的大量时间。</font></font></p>
+<div align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+English |</font></font><a href="https://github.com/illacloud/illa-builder/blob/beta/README-CN.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">简体中文</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font><a href="https://github.com/illacloud/illa-builder/blob/beta/README-DE.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">德语</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|</font></font><a href="https://github.com/illacloud/illa-builder/blob/beta/README-JP.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">日本语</font></font></a>
 </div>
-
 <br>
-<p align="center">
-<a href="https://cloud.illacloud.com/">
-  <img src="https://cdn.illacloud.com/official-website/img/hacktoberFest/20230919-210525.png">
+<p align="center" dir="auto">
+<a href="https://cloud.illacloud.com?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" rel="nofollow">
+  <img width="800" alt="GitHub(1)" src="https://github.com/illacloud/.github/raw/main/assets/2024/Jan/GitHub%20-%20Readme.png" style="max-width: 100%;">
 </a>
 </p>
-
-
-<p align="center">
-  <a href="https://discord.gg/illacloud"><img src="https://img.shields.io/badge/chat-Discord-7289DA?logo=discord" height=18></a>
-  <a href="https://twitter.com/illacloudHQ"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white" height=18></a>
-  <a href="https://github.com/orgs/illacloud/discussions"><img src="https://img.shields.io/badge/discussions-GitHub-333333?logo=github" height=18></a>
-  <a title="Crowdin" target="_blank" href="https://crowdin.com/project/illa-builder"><img src="https://badges.crowdin.net/illa-builder/localized.svg"  height=18></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/github/license/illacloud/illa-builder" height=18></a>
-  <a href="./CONTRIBUTING.md"><img src="https://badgen.net/badge/PRs/Welcome/green?icon=storybook" height=18></a>
-</p>
-
-
-[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=socialflat-square&)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![Formatting (pre-commit)](https://github.com/ros-planning/moveit2/actions/workflows/format.yaml/badge.svg?branch=main)](https://github.com/illacloud/illa-builder/actions/workflows/format.yaml?query=branch%3Amain)
-[![CI (Rolling and Humble)](https://github.com/ros-planning/moveit2/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/illacloud/illa-builder/actions/workflows/ci.yaml?query=branch%3Amain)
-[![Code Coverage](https://codecov.io/gh/ros-planning/moveit2/branch/main/graph/badge.svg?token=W7uHKcY0ly)](https://codecov.io/gh/illacloud/illa-builder)
-[![Stars](https://img.shields.io/github/stars/ros-planning/moveit2.svg?style=flat)](https://github.com/illacloud/illa-builder/stars)
-[![Issues](https://img.shields.io/github/issues/ros-planning/moveit2.svg?style=flat)](https://github.com/illacloud/illa-builder/issues)
-[![Forks](https://img.shields.io/github/forks/ros-planning/moveit2.svg?style=flat)](https://github.com/illacloud/illa-builder/forks)
-[![PR:s Welcome](https://img.shields.io/badge/PR:s-welcome-brightgreen.svg)](https://github.com/illacloud/illa-builder/pulls)
-[![First Contributors](https://img.shields.io/badge/first-contributors-brightgreen.svg)](https://github.com/illacloud/illa-builder/pulls)
-![GitHub repo size](https://img.shields.io/github/repo-size/illacloud/illa-builder)
-
-
-## 🚀Get Started
-To try ILLA, the most convenient way is to sign up and log in to [ILLA Cloud](https://cloud.illacloud.com/). 
-
-You can also deploy and [self-host](https://docs.illacloud.com/self-hosted-deployment/) ILLA utils manually([Docker](https://www.docker.com/), [docker-compose](https://docs.docker.com/compose/), and [k8s](https://kubernetes.io/)).
-
-<p>
-  <a href="https://www.illacloud.com/en-US/docs/deploy-introduction"><img src="https://github.com/illacloud/.github/blob/main/assets/images/selfhost.png" height=120 />
-  <a href="https://cloud.illacloud.com/"><img src="https://raw.githubusercontent.com/illacloud/.github/main/assets/images/ILLA%20Cloud.png" height=120 />
-</p>
-
-
-
-## ✨ Features
-
-1. ⚽ **Real-time Collaboration:** We can create everything in real-time together.
-2. 🛠 **Custom Plugin:** Build any custom plugin to do what you want.
-3. 🤖 **Automate Support:** Connect everything and automate them in 5 seconds.
-4. 🖥 **Self-hosted:** supports Docker & k8s
-5. 📝 **Page Support:** The base of creating a content-rich and UI-friendly tool.
-6. 🎨 **Powered by [ILLA Design](https://github.com/illacloud/illa-design):** Components should not constrain your imagination.
-
-## Self-hosted
-    
-The ILLA CLI enables you to deploy ILLA Builder faster than your imagination. [Click here](https://docs.illacloud.com/self-hosted-deployment) for more details.
-After successfully deployed, you can register with email address or log in with the following information: 
-<p align="left">Username (email): root</p>
-<p align="left">Password: password</p>
-
-    
-    
-## How to build your tool
-
-#### 🎯 Step 1: Connect to your database
-<p align="center">
-  <a href="https://cloud.illacloud.com/">
-    <img src="https://github.com/illacloud/.github/blob/main/assets/images/sql.jpeg">
+<p dir="auto"><a href="https://discord.gg/illacloud" rel="nofollow"><img src="https://camo.githubusercontent.com/ddbf41573444234433cf6de2659ef56d3b13c5be14969bcb049ee02ebbe0d721/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d3732383944413f6c6f676f3d646973636f7264" alt="不和谐" data-canonical-src="https://img.shields.io/badge/chat-Discord-7289DA?logo=discord" style="max-width: 100%;"></a>
+<a href="https://twitter.com/illacloudHQ" rel="nofollow"><img src="https://camo.githubusercontent.com/96f966e941ce7cb1a3475d279c142a8d5dda17370130df95272182147f5af66a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f6c6f676f3d78266c6f676f436f6c6f723d7768697465" alt="推特" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://github.com/orgs/illacloud/discussions"><img src="https://camo.githubusercontent.com/5ccf68bcf33036de63c4c00779b451b3985faee5a22f2c30801c03a14e722994/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64697363757373696f6e732d4769744875622d3333333333333f6c6f676f3d676974687562" alt="讨论" data-canonical-src="https://img.shields.io/badge/discussions-GitHub-333333?logo=github" style="max-width: 100%;"></a>
+<a href="https://crowdin.com/project/illa-builder" rel="nofollow"><img src="https://camo.githubusercontent.com/5c2ecb6f55406d54f94fc382291cdb6643a186b916dc21ba8c2c6c4ffee21d6c/68747470733a2f2f6261646765732e63726f7764696e2e6e65742f696c6c612d6275696c6465722f6c6f63616c697a65642e737667" alt="克罗丁" data-canonical-src="https://badges.crowdin.net/illa-builder/localized.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/illacloud/illa-builder/actions/workflows/build-docker.yml?query=branch%3Amain"><img src="https://github.com/illacloud/illa-builder/actions/workflows/build-docker.yml/badge.svg?query=branch%3Amain" alt="CI（滚动和谦虚）" style="max-width: 100%;"></a>
+<a href="https://github.com/illacloud/illa-builder/pulls"><img src="https://camo.githubusercontent.com/656a761e31f370070b46fce93a19631cf370a6ae0c9218439e4fca8a43f671cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50523a732d77656c636f6d652d627269676874677265656e2e737667" alt="PR：欢迎" data-canonical-src="https://img.shields.io/badge/PR:s-welcome-brightgreen.svg" style="max-width: 100%;"></a>
+<a href="https://www.apache.org/licenses/LICENSE-2.0.html" rel="nofollow"><img src="https://camo.githubusercontent.com/df64191082b04ffbf30691bc304480387b825b419a73e3df02bbca446fc806d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d417061636865253230322d3445423142412e7376673f7374796c653d736f6369616c666c61742d73717561726526" alt="执照" data-canonical-src="https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=socialflat-square&amp;" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-get-started" class="anchor" aria-hidden="true" tabindex="-1" href="#get-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀开始吧</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要试用ILLA，最方便的方法是注册并登录</font></font><a href="https://cloud.illacloud.com?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ILLA Cloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您还可以手动部署和</font></font><a href="https://docs.illacloud.com/self-hosted-deployment/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ILLA 实用程序（</font></font><a href="https://www.docker.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://docs.docker.com/compose/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">docker-compose</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://kubernetes.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">k8s</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）。</font></font></p>
+<p dir="auto">
+  <a href="https://cloud.illacloud.com?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" rel="nofollow"><img src="https://raw.githubusercontent.com/illacloud/.github/main/assets/images/ILLA%20Cloud.png" height="120" style="max-width: 100%;">
+</a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--features" class="anchor" aria-hidden="true" tabindex="-1" href="#-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✨ 特点</font></font></h2>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚽</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实时协作：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们可以一起实时创建一切。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤖</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动化支持：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接所有内容并在 5 秒内实现自动化。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖥</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持 Docker 和 k8s</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">页面支持：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建内容丰富且用户界面友好的工具的基础。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎨</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">由</font></font></strong><strong><a href="https://github.com/illacloud/illa-design"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ILLA Design</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供支持：</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">组件不应限制您的想象力。</font></font></li>
+</ol>
+<h2 tabindex="-1" dir="auto"><a id="user-content-self-hosted" class="anchor" aria-hidden="true" tabindex="-1" href="#self-hosted"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ILLA CLI 使您能够比您想象的更快地部署ILLA Builder。</font></font><a href="https://docs.illacloud.com/self-hosted-deployment" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">点击这里</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解更多详情。</font><font style="vertical-align: inherit;">部署成功后，您可以使用邮箱注册或使用以下信息登录：</font></font></p>
+<p align="left" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户名（电子邮件）：root</font></font></p>
+<p align="left" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密码： 密码</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-how-to-build-your-tool" class="anchor" aria-hidden="true" tabindex="-1" href="#how-to-build-your-tool"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何构建你的工具</font></font></h2>
+<h4 tabindex="-1" dir="auto"><a id="user-content--step-1-connect-to-your-database" class="anchor" aria-hidden="true" tabindex="-1" href="#-step-1-connect-to-your-database"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎯 第 1 步：连接到您的数据库</font></font></h4>
+<p align="center" dir="auto">
+  <a href="https://cloud.illacloud.com?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" rel="nofollow">
+    <img src="https://github.com/illacloud/.github/raw/main/assets/images/sql.jpeg" style="max-width: 100%;">
   </a>
 </p>
-
-#### 🎨 Step 2: Build UI with built-in components
-Build your UI by dragging components to the canvas. We provide dozens of components including charts, tables, forms, and many more in Illa Builder and Illa Design. When components overlap, their position will be automatically adjusted, which makes the layout development easy and flexible.
-
-<p align="center">
-  <a href="https://cloud.illacloud.com/">
-    <img src="https://github.com/illacloud/.github/blob/main/assets/images/edit-ui-with-components.gif">
+<h4 tabindex="-1" dir="auto"><a id="user-content--step-2-build-ui-with-built-in-components" class="anchor" aria-hidden="true" tabindex="-1" href="#-step-2-build-ui-with-built-in-components"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎨 步骤 2：使用内置组件构建 UI</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过将组件拖动到画布来构建您的 UI。</font><font style="vertical-align: inherit;">我们在 Illa Builder 和 Illa Design 中提供了数十种组件，包括图表、表格、表单等。</font><font style="vertical-align: inherit;">当组件重叠时，它们的位置会自动调整，这使得布局开发变得简单灵活。</font></font></p>
+<p align="center" dir="auto">
+  <animated-image data-catalyst=""><a href="https://cloud.illacloud.com?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" rel="nofollow" data-target="animated-image.originalLink">
+    <img src="https://github.com/illacloud/.github/raw/main/assets/images/edit-ui-with-components.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://cloud.illacloud.com/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="编辑 ui-with-components.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/illacloud/.github/raw/main/assets/images/edit-ui-with-components.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="402"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放 edit-ui-with-components.gif" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放 edit-ui-with-components.gif">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 edit-ui-with-components.gif" class="AnimatedImagePlayer-button" href="https://cloud.illacloud.com/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
 </p>
-
-#### 🔌 Step 3: Connect to your data
-Connect to MySQL or REST API through our GUI data connectors. We will add more than 10 databases and APIs soon.
-<p align="center">
-  <a href="https://cloud.illacloud.com/">
-    <img src="https://github.com/illacloud/.github/blob/main/assets/images/connect-your-data.gif">
+<h4 tabindex="-1" dir="auto"><a id="user-content--step-3-connect-to-your-data" class="anchor" aria-hidden="true" tabindex="-1" href="#-step-3-connect-to-your-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔌 第 3 步：连接到您的数据</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过我们的 GUI 数据连接器连接到 MySQL 或 REST API。</font><font style="vertical-align: inherit;">我们很快将添加 10 多个数据库和 API。</font></font></p>
+<p align="center" dir="auto">
+  <animated-image data-catalyst=""><a href="https://cloud.illacloud.com?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" rel="nofollow" data-target="animated-image.originalLink">
+    <img src="https://github.com/illacloud/.github/raw/main/assets/images/connect-your-data.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://cloud.illacloud.com/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="连接您的数据.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/illacloud/.github/raw/main/assets/images/connect-your-data.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="402"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放连接您的数据.gif" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放连接您的数据.gif">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开 connect-your-data.gif" class="AnimatedImagePlayer-button" href="https://cloud.illacloud.com/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
 </p>
-
-#### 🚀 Step 4: Deploy your app
-Deploy your app and self-host it. 
-<p align="center">
-  <a href="https://cloud.illacloud.com/">
-    <img src="https://github.com/illacloud/.github/blob/main/assets/images/deploy.gif">
+<h4 tabindex="-1" dir="auto"><a id="user-content--step-4-deploy-your-app" class="anchor" aria-hidden="true" tabindex="-1" href="#-step-4-deploy-your-app"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 步骤 4：部署您的应用程序</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部署您的应用程序并自行托管它。</font></font></p>
+<p align="center" dir="auto">
+  <animated-image data-catalyst=""><a href="https://cloud.illacloud.com?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" rel="nofollow" data-target="animated-image.originalLink">
+    <img src="https://github.com/illacloud/.github/raw/main/assets/images/deploy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://cloud.illacloud.com/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="部署.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/illacloud/.github/raw/main/assets/images/deploy.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="814" height="445"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放部署.gif" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放部署.gif">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开deploy.gif" class="AnimatedImagePlayer-button" href="https://cloud.illacloud.com/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=github-readme" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
 </p>
-
-
-## 💬 Community
-
-Join ILLA Community to share your ideas, suggestions, or questions and connect with other users and contributors.
-
-[![Chat on Discord](https://img.shields.io/badge/chat-Discord-7289DA?logo=discord)](https://discord.gg/illacloud)   [![Discuss on GitHub](https://img.shields.io/badge/discussions-GitHub-333333?logo=github)](https://github.com/orgs/illacloud/discussions)   
-
-## 🌱 Contributing
-
-Thinking about contributing? All kinds of contributions to ILLA are greatly appreciated and welcomed! Check out our [Contribution Guide](./CONTRIBUTING.md) for details about how you can get involved.
-<p>Appreciate all the contributions from our ❤︎  <a href="https://github.com/illacloud/illa-builder/graphs/contributors">Contributors!</a></p>
-
-## 📢 Translating
-
-The `apps/builder/src/i18n/locale/*` dirs are kept up-to-date automatically via Crowdin. See our [official translation page](https://crowdin.com/project/illa-builder) in case you would like to contribute.
-
-## 🔥 We are Hiring!
-
-Looking for a passionate and creative team? We are actively hiring engineers for the following positions:
-
-- Frontend Engineer
-- Golang Engineer
-
-Contact Us: hr@illasoft.com
-
-## LICENSE
-
-This project is currently licensed under [Apache License 2.0](./LICENSE).
+<h2 tabindex="-1" dir="auto"><a id="user-content--community" class="anchor" aria-hidden="true" tabindex="-1" href="#-community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 社区</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入 ILLA 社区分享您的想法、建议或问题，并与其他用户和贡献者联系。</font></font></p>
+<p dir="auto"><a href="https://discord.gg/illacloud" rel="nofollow"><img src="https://camo.githubusercontent.com/ddbf41573444234433cf6de2659ef56d3b13c5be14969bcb049ee02ebbe0d721/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d3732383944413f6c6f676f3d646973636f7264" alt="在 Discord 上聊天" data-canonical-src="https://img.shields.io/badge/chat-Discord-7289DA?logo=discord" style="max-width: 100%;"></a>   <a href="https://github.com/orgs/illacloud/discussions"><img src="https://camo.githubusercontent.com/5ccf68bcf33036de63c4c00779b451b3985faee5a22f2c30801c03a14e722994/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64697363757373696f6e732d4769744875622d3333333333333f6c6f676f3d676974687562" alt="在 GitHub 上讨论" data-canonical-src="https://img.shields.io/badge/discussions-GitHub-333333?logo=github" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--contributing" class="anchor" aria-hidden="true" tabindex="-1" href="#-contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱 贡献</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">考虑贡献吗？</font><font style="vertical-align: inherit;">非常感谢和欢迎对ILLA的各种贡献！</font><font style="vertical-align: inherit;">请查看我们的</font></font><a href="/illacloud/illa-builder/blob/beta/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，了解有关如何参与的详细信息。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢我们的 ❤︎ 贡献者的所有贡献  </font></font><a href="https://github.com/illacloud/illa-builder/graphs/contributors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">！</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--translating" class="anchor" aria-hidden="true" tabindex="-1" href="#-translating"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📢 翻译</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font><code>apps/builder/src/i18n/locale/*</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 Crowdin 自动保持最新。</font><font style="vertical-align: inherit;">如果您想做出贡献，</font><font style="vertical-align: inherit;">请参阅我们的</font></font><a href="https://crowdin.com/project/illa-builder" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方翻译页面。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--we-are-hiring" class="anchor" aria-hidden="true" tabindex="-1" href="#-we-are-hiring"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔥 我们正在招聘！</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">寻找一支充满激情和创造力的团队？</font><font style="vertical-align: inherit;">我们正在积极招聘工程师担任以下职位：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前端工程师</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Go语言工程师</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系我们：</font></font><a href="mailto:hr@illasoft.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hr@illasoft.com</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-license" class="anchor" aria-hidden="true" tabindex="-1" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目目前已获得</font></font><a href="/illacloud/illa-builder/blob/beta/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache License 2.0</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的许可。</font></font></p>
+</article></div>
